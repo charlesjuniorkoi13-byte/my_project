@@ -1,0 +1,1 @@
+console.log("Hello World from IS216 Lab 1!");
